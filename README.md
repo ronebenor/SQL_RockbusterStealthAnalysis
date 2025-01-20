@@ -14,4 +14,4 @@ the main questions they’d like to answer:
 
 ● Where are customers with a high lifetime value based?
 ## Data Visualization
-View visualizaitons [here](https://coach-courses-us.s3.amazonaws.com/exercises/1054/66162/e086ddb8fea4929c69a7ebf8357f4e0a/Exercise-3.10-RB.pdf)
+View visualizaitons [here](https://coach-courses-us.s3.amazonaws.com/exercises/1054/66162/e086ddb8fea4929c69a7ebf8357f4e0a/Exercise-3.10-RB.pdf).
