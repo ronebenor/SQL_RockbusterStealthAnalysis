@@ -15,4 +15,4 @@ the main questions they’d like to answer:
 ● Where are customers with a high lifetime value based?
 ## Data Visualization
 [View visualizations here]([url](https://public.tableau.com/app/profile/ron.baron/viz/step1_17319771438810/Sheet5)).
-
+View visualizaitons [here](https://coach-courses-us.s3.amazonaws.com/exercises/1054/66162/e086ddb8fea4929c69a7ebf8357f4e0a/Exercise-3.10-RB.pdf)
