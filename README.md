@@ -1,1 +1,2 @@
-# SQL_RockbusterStealthAnalysis
+# Profile
+Rockbuster Stealth LLC, a leader in the rental store industry, is stepping into the digital age with the launch of an online video rental platform. By utilizing its current movie licenses, the company aims to stay competitive with streaming giants such as Netflix and Amazon Prime. This initiative centers on data analysis to guide the successful launch and long-term strategy of the new streaming service.
